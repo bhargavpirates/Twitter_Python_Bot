@@ -1,0 +1,231 @@
+2020-06-02 14:54:37,113 - __main__ - INFO - INFO
+2020-06-02 14:54:37,114 - __main__ - WARNING - WARNING
+2020-06-02 14:54:37,114 - __main__ - ERROR - ERROR
+2020-06-02 14:54:37,115 - __main__ - INFO - Start Authenthication Proces.......
+2020-06-02 14:54:38,173 - __main__ - INFO - Authentication Completed
+2020-06-02 14:54:43,650 - __main__ - INFO - abhishek bisht said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:54:43,651 - __main__ - INFO - Aaron Cuddeback said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:54:43,653 - __main__ - INFO - Mr Data Scientist said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:54:43,658 - __main__ - INFO - LeetcodeBot said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:54:43,658 - __main__ - INFO - NCode Technologies said Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage… https://t.co/AZwqwivZ3q
+2020-06-02 14:54:43,658 - __main__ - INFO - Simon Bennetts said @DhruvWaghela9 @3mm4h3ff @PentesterLab Python is a good language to know, esp in security. You can also learn a lot… https://t.co/vZqvXY5hg8
+2020-06-02 14:54:43,659 - __main__ - INFO - CodersNotes said RT @thekvgulati: Day 2 of the #100DaysOfCode in #Python. Revisited the basic concepts of the language, which are gonna help me lead upto th…
+2020-06-02 14:54:43,659 - __main__ - INFO - Tamal Sen said @Al_Grigor @Al_Grigor : Hello Alexey, I am Tamal, an independent full stack web developer,a weekly blogger, program… https://t.co/BCIaJzluVv
+2020-06-02 14:54:43,660 - __main__ - INFO - Pandata Academy said Technologies:
+
+Python: is a programming language with a simple syntax that is commonly used for data science. 
+
+R:… https://t.co/a9ByeV9sbd
+2020-06-02 14:54:43,661 - __main__ - INFO - Dhruv Waghela said @3mm4h3ff @PentesterLab @psiinon tbh i am not good in programming language but i am trying to learn python.
+2020-06-02 14:54:43,661 - __main__ - INFO - enrik pace said RT @catalinmpit: My mistakes as an upcoming developer:
+
+* didn't learn HTML, CSS and JavaScript basics properly
+* I had more Udemy courses…
+2020-06-02 14:54:43,662 - __main__ - INFO - Jeffrey MacAskill said Once upon a time, Python the outstanding programming language left his home. Python went home.
+2020-06-02 14:54:43,663 - __main__ - INFO - Very Proud Robot said RT @thekvgulati: Day 2 of the #100DaysOfCode in #Python. Revisited the basic concepts of the language, which are gonna help me lead upto th…
+2020-06-02 14:54:43,663 - __main__ - INFO - 🤖 #100DaysOfCode 🎉 said RT @thekvgulati: Day 2 of the #100DaysOfCode in #Python. Revisited the basic concepts of the language, which are gonna help me lead upto th…
+2020-06-02 14:54:43,664 - __main__ - INFO - Kanav Gulati said Day 2 of the #100DaysOfCode in #Python. Revisited the basic concepts of the language, which are gonna help me lead… https://t.co/9AI11SkJ30
+2020-06-02 14:54:43,667 - __main__ - INFO - Code Poetry Robot said Python shines like celebrity language
+2020-06-02 14:54:43,667 - __main__ - INFO - Der Waffle Mous said monster factory giving me the same feeling of being in the early aughts and watching the monty python and the holy… https://t.co/sCks9MVMMc
+2020-06-02 14:54:43,668 - __main__ - INFO - Jeffrey MacAskill said Once upon a time, Python the outstanding phenomenal language went to seek his forture. Python went home.
+2020-06-02 14:54:43,668 - __main__ - INFO - Szabolcs Baader said @dephraiim In which language? Go, C/Cpp, or Ruby? Sounds interesting (white space-less Python)
+2020-06-02 14:54:43,669 - __main__ - INFO - Williams A.Beloved said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,670 - __main__ - INFO - Helen Cunnold said RT @officestudents: You have just under two weeks to apply for our #entrylevel #Analyst #job roles. We don't expect knowledge of any partic…
+2020-06-02 14:54:43,692 - __main__ - INFO - Big $am said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,693 - __main__ - INFO - Black People Data said RT @PurityNyakundi2: If am doing Data Scientince in R.I have the knowledge in data science life cycle in R programming language.I now want…
+2020-06-02 14:54:43,695 - __main__ - INFO - Big B©§§🔱 🔱 said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,700 - __main__ - INFO - Purity Nyakundi said If am doing Data Scientince in R.I have the knowledge in data science life cycle in R programming language.I now wa… https://t.co/aAsOSaZIah
+2020-06-02 14:54:43,702 - __main__ - INFO - comatosed said RT @Alex_Pozdneev: @anka_shugol What programming language do you use? For #Python, I use @pycharm and @ProjectJupyter. For @java, I (still)…
+2020-06-02 14:54:43,703 - __main__ - INFO - Alexander Pozdneev said @anka_shugol What programming language do you use? For #Python, I use @pycharm and @ProjectJupyter. For @java, I (s… https://t.co/JFR2nySd9d
+2020-06-02 14:54:43,703 - __main__ - INFO - API Trends said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,704 - __main__ - INFO - AI文豪Bot said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,704 - __main__ - INFO - Coding for a better world. ¿Need help? said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,704 - __main__ - INFO - CodersNotes said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,705 - __main__ - INFO - AKDM bot! said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,705 - __main__ - INFO - JSBot said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,705 - __main__ - INFO - dystopian mentalist said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,706 - __main__ - INFO - Shay Cormac said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,706 - __main__ - INFO - nlognbot said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,706 - __main__ - INFO - CoderPrideMW said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,707 - __main__ - INFO - HubofMachineLearning said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,707 - __main__ - INFO - Ready Dev said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,708 - __main__ - INFO - xael bot said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,708 - __main__ - INFO - FemTech_🖥👩🏽‍💻 said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,708 - __main__ - INFO - Let's learn together 🤖 said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,709 - __main__ - INFO - Gamer Geek said RT @CouseSites: Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode #DataScience…
+2020-06-02 14:54:43,709 - __main__ - INFO - FREE COURSE SITE NET said Data Science: Natural Language Processing (NLP) in #Python | Course -&gt; https://t.co/z2jofotTy6
+
+#100DaysOfCode… https://t.co/JrYLKOj2mp
+2020-06-02 14:54:43,710 - __main__ - INFO - Raff and their hubris said Hey, what are the odds someone's got a good tutorial for the Godot engine (python is the base language iirc) about… https://t.co/e61WZrughg
+2020-06-02 14:54:43,710 - __main__ - INFO - bun.bun.🐽 said Recurrent Neural Networks for Language Modeling in Python: Use RNNs to classify text sentiment, generate sentences,… https://t.co/0yeQrSd6sy
+2020-06-02 14:54:43,710 - __main__ - INFO - Eat. Sleep. Code. said RT @remotejobs11: learn python the easy way 
+https://t.co/tJeH9K3QT0
+#codenewbie
+2020-06-02 14:54:43,711 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,713 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,714 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,714 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,714 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,715 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,715 - __main__ - INFO - #100daysOfCode said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,715 - __main__ - INFO - JSBot said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,716 - __main__ - INFO - HubofMachineLearning said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,716 - __main__ - INFO - xael bot said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,717 - __main__ - INFO - Machine Learning Bot said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,717 - __main__ - INFO - Ready Dev said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,717 - __main__ - INFO - Let's learn together 🤖 said RT @machine_on: As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (statsmodel…
+2020-06-02 14:54:43,718 - __main__ - INFO - Machine Learning Hands On said As I promised here is the first series of machine learning in all required language (python,R,matlab,spark) and (st… https://t.co/Ok25LUAZpV
+2020-06-02 14:54:43,718 - __main__ - INFO - John Tigue said This and Pyodide are interesting fronts of Python's diffusion of innovation (DoI). 
+
+If one looks at Python as simp… https://t.co/pmLk1KFZQL
+2020-06-02 14:54:43,718 - __main__ - INFO - TheCoracoidOne said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,719 - __main__ - INFO - Paul Watson said How to deploy @huggingface's GPT2 NLG (Natural Language Generation) #ML with #Python, Flask, and Connexion on AWS E… https://t.co/4PV7qhDiYH
+2020-06-02 14:54:43,719 - __main__ - INFO - Python Flux said Python Programming Language: Complete Guide for Beginners, Intermediates and Advanced:  7 Days Crash Course… https://t.co/fNnbIAZKzX
+2020-06-02 14:54:43,720 - __main__ - INFO - Hyungwook Yim said RT @simonjohndennis: My UPCOMING WORKSHOP, "A hands on introduction to using Private" (10amJune11) will teach you how to use a new #Privacy…
+2020-06-02 14:54:43,721 - __main__ - INFO - Stig 🏴 said @astro_bandit You can simultaneously learn to program. I recommend python, a programming language, to start. To get… https://t.co/KeaeZYTTlw
+2020-06-02 14:54:43,721 - __main__ - INFO - Jeffrey MacAskill said Once upon a time, Python the professional phenomenal language set sail for adventures. Python went home.
+2020-06-02 14:54:43,735 - __main__ - INFO - Coding for a better world. ¿Need help? said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,736 - __main__ - INFO - Leon Wesley Malefo said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,736 - __main__ - INFO - Ori Katz said מעניין מתי שפות תכנות פופולאריות יפסיקו להתחלף, והאנושות תתקבע על 5-6 שפות תכנות קבועות עבור כל היישומים האפשריים.… https://t.co/ovJK7Qooaw
+2020-06-02 14:54:43,737 - __main__ - INFO - Bugfix Technologies said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,737 - __main__ - INFO - The Python Kingdom said RT @ingliguori: #Python Cheat Sheet - A useful #CheatSheet for the most desired programming language in the job market
+Check out this artic…
+2020-06-02 14:54:43,738 - __main__ - INFO - Nishant Arora said RT @ingliguori: #Python Cheat Sheet - A useful #CheatSheet for the most desired programming language in the job market
+Check out this artic…
+2020-06-02 14:54:43,738 - __main__ - INFO - The Python Kingdom said RT @theroyalbeloved: Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScript
+C…
+2020-06-02 14:54:43,738 - __main__ - INFO - Williams A.Beloved said Are you worthy of programming? 
+
+Start slow, understand HTML and CSS to the fullest!
+
+HTML 
+CSS
+Bootstrap
+JavaScrip… https://t.co/F8osEwpxrQ
+2020-06-02 14:54:43,739 - __main__ - INFO - The Python Kingdom said RT @technojam_gu: Hello everyone! 😁
+
+Do you want to learn the skills  you need to advance your career? ⚡
+
+As per GitHub's latest annual rep…
+2020-06-02 14:54:43,739 - __main__ - INFO - Team Technojam said Hello everyone! 😁
+
+Do you want to learn the skills  you need to advance your career? ⚡
+
+As per GitHub's latest annu… https://t.co/rtK3AF1sHT
+2020-06-02 14:54:43,740 - __main__ - INFO - The Python Kingdom said RT @RaynaRenee_: I always knew python was my favorite language https://t.co/3pNRWSXuu2
+2020-06-02 14:54:43,740 - __main__ - INFO - kp 🖤 said RT @RaynaRenee_: I always knew python was my favorite language
+2020-06-02 14:54:43,740 - __main__ - INFO - Anthony, The Black Stark said RT @RaynaRenee_: I always knew python was my favorite language
+2020-06-02 14:54:43,741 - __main__ - INFO - Jazz ✨ said RT @RaynaRenee_: I always knew python was my favorite language
+2020-06-02 14:54:43,741 - __main__ - INFO - Rayna. said I always knew python was my favorite language https://t.co/3pNRWSXuu2
+2020-06-02 14:54:43,741 - __main__ - INFO - The Python Kingdom said RT @KimdominicLirio: I want to learn a language
+Idk if
+Japanese
+Or
+Python (programming)
+2020-06-02 14:54:43,743 - __main__ - INFO - Dominiku said I want to learn a language
+Idk if
+Japanese
+Or
+Python (programming)
+2020-06-02 14:54:43,743 - __main__ - INFO - Jeffrey MacAskill said Once upon a time, Python the complicated phenomenal language left her home. Python went home.
+2020-06-02 14:54:43,746 - __main__ - INFO - InvestingCoder said Great image of what I found online. Python seems to be highly in demand, although if you choose the language you lo… https://t.co/tkqt52Wer7
+2020-06-02 14:54:43,746 - __main__ - INFO - Robin said @MeowtainDeww_ My Gender Identity is Python Programming Language.
+2020-06-02 14:54:43,746 - __main__ - INFO - Asher Spira said @thats_plumb @sircontraire Most of the work wasn't actually programming, but I can code proficiently in C#, JavaScr… https://t.co/OP8QM3ovnz
+2020-06-02 14:54:43,747 - __main__ - INFO - Mushab said RT @pythonbot_: Python Programming for Beginners: An Introduction to the Python Computer Language and Computer Programming https://t.co/OzX…
+2020-06-02 14:54:43,747 - __main__ - INFO - Jeffrey MacAskill said Once upon a time, C++ the outstanding object oriented language set out for adventures. C++ found an ancient book an… https://t.co/ojsS9FHqZl
+2020-06-02 14:54:43,747 - __main__ - INFO - 𝕻 𝖎 𝖐 𝖆 𝖈 𝖍 𝖚 ❤️ said My own version of BANKING SYSTEM using Python Programming Language.. .
+
+//firstProgram❤️ https://t.co/K9zf22LFuX
+2020-06-02 14:54:43,748 - __main__ - INFO - Jeffrey MacAskill said Once upon a time, Python the complicated programming language left her home. Python went home.
+2020-06-02 14:54:43,748 - __main__ - INFO - Robert William Ross said RT @TheFluxApex: Building a series of psuedo #framework modules (whatever) for #AutoHotkey. It's really just a class system that makes the…
+2020-06-02 14:54:43,748 - __main__ - INFO - Jim Lynch said RT @Sweet_Purgatory: @ms_victorry My love language is python 🥺
+2020-06-02 14:54:43,749 - __main__ - INFO - Work Visalia said JOB: Lindsay CA USA - Sr. Software Engineer - Overwatch Labs Remote - Degree in Computer Science or comme: Degree i… https://t.co/E3BBVFssT5

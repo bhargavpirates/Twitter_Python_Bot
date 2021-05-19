@@ -1,0 +1,546 @@
+2020-06-02 14:52:29,717 - __main__ - INFO - INFO
+2020-06-02 14:52:29,717 - __main__ - WARNING - WARNING
+2020-06-02 14:52:29,718 - __main__ - ERROR - ERROR
+2020-06-02 14:52:29,721 - __main__ - INFO - Start Authenthication Proces.......
+2020-06-02 14:52:31,156 - __main__ - INFO - Authentication Completed
+2020-06-02 14:52:33,944 - __main__ - INFO - Ko said @oshiriver2 私もわこすんと一緒にPython勉強するかなぁ(*´-`*)
+2020-06-02 14:52:33,946 - __main__ - INFO - shiv said @saikiran_b @rvelichapat @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs… https://t.co/zkWY5nRq6C
+2020-06-02 14:52:33,956 - __main__ - INFO - Ganesh R said @susantananda3 @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan… https://t.co/l0zFMDXjUn
+2020-06-02 14:52:33,959 - __main__ - INFO - YSB said @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs… https://t.co/cegz35qPOY
+2020-06-02 14:52:33,961 - __main__ - INFO - 北上 たかひろ said RT @Meguru_rinne_vt: ショートショートの第二弾だよ🦊‼️
+
+[ショートショート]天使は目覚めない｜めぐるりんね＠言語魔法Python使いの狐っ娘 @Meguru_rinne_vt #note #vtuber #VTuber好きと繋がりたい  https://…
+2020-06-02 14:52:33,986 - __main__ - INFO - Yuval Leshem |CEO⁝HR Director⁝PMO⁝CO.FOUNDER| said Hot High Tech Jobs in Israel available 24/7:
+#angular
+#react
+#python
+#django
+#ux_ui
+#frontend
+#backend
+#javascript… https://t.co/muJtQT9bWA
+2020-06-02 14:52:33,988 - __main__ - INFO - Jerzy Lipka ✌️ 🇵🇱 🇪🇺 ❤️ said RT @MikiWrobelek_: Równie głupiej i kuriozalnej konferencji w wykonaniu Morawieckiego, Szumowskiego i tego pijaka Kamińskiego dawno nie wid…
+2020-06-02 14:52:33,989 - __main__ - INFO - 無印粗人 said まじでpythonのバージョン管理と仮想環境、全部pipenvで統一してほしい。その方がミスが減るだろ絶対
+2020-06-02 14:52:33,991 - __main__ - INFO - パーセニー said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:33,995 - __main__ - INFO - Bot Pandoh said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:33,997 - __main__ - INFO - 株価予測AI@開発中 said @Takamomo5963 たかさん
+リプライありがとうございます！
+
+開発中のサイトは
+pythonで作ってるんですよー！
+
+いつか、たかさんが
+pythonでウェブサイトを
+作る日を楽しみにしです😉
+2020-06-02 14:52:33,998 - __main__ - INFO - ONK said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,001 - __main__ - INFO - Mritunjay Sharma said What STL is to C++, 
+Python is to Prgramming Languages
+2020-06-02 14:52:34,003 - __main__ - INFO - すぎさん@総合クリエイター said RT @Daisuke_UTMedAI: さっきのGCP使ったディープラーニングのアプリ開発、コード自体はJavaとJavaScriptで書かれてたから、Python以外に上記2つもやった方がいい気がしてきた...😂
+
+#今日の積み上げ  
+#Python  #Java  #J…
+2020-06-02 14:52:34,005 - __main__ - INFO - nlognbot said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:34,006 - __main__ - INFO - 那梨 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,008 - __main__ - INFO - かみや said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,011 - __main__ - INFO - FB said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:34,013 - __main__ - INFO - CodersNotes said RT @zoe_codes: Following on from my previous tweet, I’m on Day 31 of #100DaysOfCode 
+
+I’m currently working through a beta tutorial &amp; givin…
+2020-06-02 14:52:34,014 - __main__ - INFO - fafa.👩🏻‍💻 said Python for Spreadsheet Users: Use your knowledge of common spreadsheet functions and techniques to explore Python! https://t.co/heKbnQ4S2q
+2020-06-02 14:52:34,016 - __main__ - INFO - André Maia Chagas said RT @ThePSF: The time for silence is long past. The Python Software Foundation stands in solidarity with the Black community.
+#BlackLivesMat…
+2020-06-02 14:52:34,017 - __main__ - INFO - David Cottila said RT @EMBLEBIjobs: Interested to understand &amp; write production level code? We're hiring a #Bioinformatician to help implement metadata standa…
+2020-06-02 14:52:34,019 - __main__ - INFO - … said RT @zarapaoyim: มีโปรแกรมเมอร์อยู่แถวนี้มั้ยคะ อยากขอความช่วยเหลือ คือว่าฝึกเขียน python ใน command prompt แล้วทีนี้บรรทัดมันก็ต่อลงมายาวๆ…
+2020-06-02 14:52:34,020 - __main__ - INFO - わからん@home said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,022 - __main__ - INFO - バニルsp said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,028 - __main__ - INFO - のこりかだいいずなっしんぐ said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,054 - __main__ - INFO - Aaron Cuddeback said RT @EMBLEBIjobs: Interested to understand &amp; write production level code? We're hiring a #Bioinformatician to help implement metadata standa…
+2020-06-02 14:52:34,055 - __main__ - INFO - ろん said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,056 - __main__ - INFO - ゑんどろす(マホイップのすがた) said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,057 - __main__ - INFO - 𓋴𓇋 𓂧𓄿 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,059 - __main__ - INFO - Tahmas said RT @js_tut: You can support me on Patreon @ https://t.co/2L9nGj0JKj and get all my coding books for only $1 – js, css, node, and webgl, and…
+2020-06-02 14:52:34,065 - __main__ - INFO - abhishek bisht said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:52:34,071 - __main__ - INFO - まくご/真紅さえ said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,075 - __main__ - INFO - EMBL-EBI Jobs said Interested to understand &amp; write production level code? We're hiring a #Bioinformatician to help implement metadata… https://t.co/bpDN0lVBi4
+2020-06-02 14:52:34,075 - __main__ - INFO - Andys said @smithy1155 Salama Aleikum Andrew Smith, im just updating now! #raspberrypi #python #iot
+2020-06-02 14:52:34,075 - __main__ - INFO - Aptech Qatar said Python Programming online course! A fresh batch is scheduled to begin from 8 June 2020 at 7pm. Please dial 4467-339… https://t.co/7lmBtuaLZT
+2020-06-02 14:52:34,077 - __main__ - INFO - YouMakeRobots said RT @DYPatilUnivers1: A ” TRYAMBAKAM”  defense drone, Project made by Mr. Shithanshu Mishra
+Hon. Dr. Vijay D. Patil Sir appreciated him. Thi…
+2020-06-02 14:52:34,077 - __main__ - INFO - Aaron Cuddeback said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:52:34,077 - __main__ - INFO - Subrahmanyam Daita said RT @dcivilsoldier: @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs @SmithamolMS…
+2020-06-02 14:52:34,077 - __main__ - INFO - HorizonBurning said @OBerruyer Si je peux me permettre, ce que vous cherchez à faire est beaucoup plus simple, durable, lisible agréabl… https://t.co/NVuH8hQNt7
+2020-06-02 14:52:34,077 - __main__ - INFO - Mr Data Scientist said RT @ThoHeller: 5 Powerful #Python IDEs for Writing #Analytics and #DataScience #Code https://t.co/987vwPmPVF
+2020-06-02 14:52:34,078 - __main__ - INFO - Mr Data Scientist said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:52:34,078 - __main__ - INFO - LeetcodeBot said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:52:34,078 - __main__ - INFO - Intellectual Piddu (*Abhi* idhar hi) 😷 said @susantananda3 @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan… https://t.co/sMarnjge5Q
+2020-06-02 14:52:34,079 - __main__ - INFO - Arnab said RT @arnabch01: @sminaev2015 @FriseSally @Marinella_Maria @MariangelaSant8 @angelicagallegs @YukariKingdom18 @mhall55nine @eoff_sylvia @Mont…
+2020-06-02 14:52:34,079 - __main__ - INFO - Sadman Ishrak said RT @sadmanishrak: 🐍 Python Apps Might Run On Android &amp; iOS Soon!
+
+#android #iOS #Python #coding #CodeNewbie #100DaysOfCode #programming #Mo…
+2020-06-02 14:52:34,079 - __main__ - INFO - DevelopersDiscussion.com said RT @sadmanishrak: 👨‍💻 Good Coders Borrow, Great Coders Steal! 
+
+#coding #programming #Software #webdevelopment #development #100DaysOfCode…
+2020-06-02 14:52:34,080 - __main__ - INFO - nlognbot said RT @sadmanishrak: 👨‍💻 Good Coders Borrow, Great Coders Steal! 
+
+#coding #programming #Software #webdevelopment #development #100DaysOfCode…
+2020-06-02 14:52:34,080 - __main__ - INFO - menn🚩 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,081 - __main__ - INFO - Sadman Ishrak said RT @sadmanishrak: 👨‍💻 Good Coders Borrow, Great Coders Steal! 
+
+#coding #programming #Software #webdevelopment #development #100DaysOfCode…
+2020-06-02 14:52:34,081 - __main__ - INFO - SS@データサイエンス勉強中 said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,082 - __main__ - INFO - Python Jobs said Odoo 13: customize company logo size from settings - https://t.co/gObgWEzGQT
+2020-06-02 14:52:34,112 - __main__ - INFO - Andys said The weather at Guardamar del Segura,ES is few clouds, the temperature is 22.19c, the wind speed is 4.0mph, the sun… https://t.co/jfyqej9jqD
+2020-06-02 14:52:34,114 - __main__ - INFO - Web Code Geeks said NumPy Where Tutorial (With Examples) | Web Code Geeks - 2020 https://t.co/8Y0IUQP8hs
+2020-06-02 14:52:34,115 - __main__ - INFO - Форум программистов и сисадминов Киберфорум said Рандомная фунция с возвратом чисел https://t.co/s8ddEGVgKt
+2020-06-02 14:52:34,120 - __main__ - INFO - Gamer Geek said RT @dcivilsoldier: @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs @SmithamolMS…
+2020-06-02 14:52:34,133 - __main__ - INFO - Gamer Geek said RT @Sh4miya: @Jskyyfall I coulda taken my loan and given it to lewis since he carried me through the assignment without even knowing python…
+2020-06-02 14:52:34,135 - __main__ - INFO - Subrahmanyam Daita said @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs… https://t.co/RHSZXaBLx1
+2020-06-02 14:52:34,138 - __main__ - INFO - ENZ | Miya said @Jskyyfall I coulda taken my loan and given it to lewis since he carried me through the assignment without even knowing python 😭
+2020-06-02 14:52:34,141 - __main__ - INFO - Piotr Warszawski 🇪🇺 said RT @MikiWrobelek_: Równie głupiej i kuriozalnej konferencji w wykonaniu Morawieckiego, Szumowskiego i tego pijaka Kamińskiego dawno nie wid…
+2020-06-02 14:52:34,145 - __main__ - INFO - Артемий Климовских said RT @Skillbox_ru: Обучающий курс «Fullstack-разработчик на Python» от Skillbox — первые 6 месяцев бесплатно. Освойте одну из самых перспекти…
+2020-06-02 14:52:34,157 - __main__ - INFO - OOZEE Technologies said RT @cardaleph1: Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.…
+2020-06-02 14:52:34,184 - __main__ - INFO - Joona Tuunanen said SEO &amp; Python screippauksen perusteet - https://t.co/j62Hg15fnR
+2020-06-02 14:52:34,186 - __main__ - INFO - Treviso said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,188 - __main__ - INFO - Robert Askam said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:34,190 - __main__ - INFO - TAY MOB said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:34,195 - __main__ - INFO - T-test said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:52:34,200 - __main__ - INFO - にしのやッ！🦔 said @spoonaomi お疲れ様です!めちゃ歩いとる!
+2020-06-02 14:52:34,203 - __main__ - INFO - pleiszenburg.de said This is a friendly reminder: I'm organizing an online discussion session for #qgis enhancement proposal 179 (… https://t.co/MWndVM04qV
+2020-06-02 14:52:34,204 - __main__ - INFO - triosia said RT @pwntheweb: Python Flask SSTI Payloads and tricks
+
+* {{url_for.__globals__}}
+* {{request.environ}}
+* {{config}}
+*`{{url_for.__globals__.…
+2020-06-02 14:52:34,206 - __main__ - INFO - Harry said RT @Fisheyebox: Skills require to be #Data #Scientist !
+#knowledge
+#MachineLearning #AI #DataScience #tech #Coding #RStats #fintech #Smartc…
+2020-06-02 14:52:34,208 - __main__ - INFO - JS News said RT @cardaleph1: Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.…
+2020-06-02 14:52:34,210 - __main__ - INFO - The Developer Bot said RT @cardaleph1: Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.…
+2020-06-02 14:52:34,212 - __main__ - INFO - Jason Chen said Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.co/yhvHorqbCH
+2020-06-02 14:52:34,214 - __main__ - INFO - Sortweste said RT @gp_pulipaka: Introduction to Vectors and Matrices using #Python for #DataScience.. #BigData #Analytics #AI #MachineLearning #IoT #IIoT…
+2020-06-02 14:52:34,216 - __main__ - INFO - 頑張りをほめるホップくん said お前が好きだぞ！」と思いながらPythonやってる https://t.co/dlPRrVqimb
+
+ちょうど今、Pythonやってる(꒪꒳꒪ )
+2020-06-02 14:52:34,219 - __main__ - INFO - Teach Computing Merseyside & Warrington said Session 1 of @WeAreComputing Python programming working with data starting today. 
+
+Fab course that has a close loo… https://t.co/xxyoqWFPJO
+2020-06-02 14:52:34,221 - __main__ - INFO - Andrew said RT @gp_pulipaka: Building a One-shot Learning Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Te…
+2020-06-02 14:52:34,222 - __main__ - INFO - Nicholas Karimi said RT @ThePSF: The time for silence is long past. The Python Software Foundation stands in solidarity with the Black community.
+#BlackLivesMat…
+2020-06-02 14:52:34,224 - __main__ - INFO - みすと said 今日、お仕事で
+自分で作ってみた初心者ーなPythonのプログラムが初めて動いたー
+嬉しかった(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)
+
+わたし個人はお仕事面白くて今は毎日1人の時間は好きだ
+
+あ、でも
+通話しながら笑える時間は楽しいよ！
+2020-06-02 14:52:34,227 - __main__ - INFO - Sheila Givens said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:34,248 - __main__ - INFO - Winston said @adam_rossini @princessbaglady @CTVNews Uh oh... you should see the Monty Python’s Russian Execution sketch then. P… https://t.co/p0c152zTzE
+2020-06-02 14:52:34,250 - __main__ - INFO - அஞ்செழுத்தான். said @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs… https://t.co/STOtoWMkWz
+2020-06-02 14:52:34,251 - __main__ - INFO - AISOMA Research said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:52:34,252 - __main__ - INFO - Shy BOT said RT @ankitkapoor5821: 10 Top #Python Libraries You Should Know in 2020
+
+https://t.co/LwttCgIBIK 👈
+
+#pythonlibraries #ArtificialIntelligence…
+2020-06-02 14:52:34,253 - __main__ - INFO - 月岡 蓮風 said RT @tsjshg: 拙著「Pythonで学ぶアルゴリズムとデータ構造」が、講談社サイエンティフィク創立50周年記念プレゼント企画になってます。ぜひ応募してみてください。ハズレたら買ってね。
+2020-06-02 14:52:34,254 - __main__ - INFO - やもり said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,255 - __main__ - INFO - Zin said C言語のコードの時に const の使い方で実装者の組込技能レベルがおおそよ測れたように、Pythonだと list, tulpe, set, dict の使い分けで見極めができると思う。
+速度やメンテ時の安全性を意識しなけりゃ… https://t.co/eLK1szix4X
+2020-06-02 14:52:34,258 - __main__ - INFO - Shy BOT said RT @bukmedianet: #Tensorflow 2.0: Deep Learning and Artificial Intelligence | Course #udemycoupon 
+
+-&gt; https://t.co/egnrmEUObj
+
+#100DaysOfC…
+2020-06-02 14:52:34,259 - __main__ - INFO - Duarte Group said RT @fjduarteg: For those interested in building metallocages, try this easy-to-use tool https://t.co/63oqKGcWsZ. For more complex systems w…
+2020-06-02 14:52:34,260 - __main__ - INFO - 今年中に借金返済を目指すガールズバーキャストの荒いさん(ガルイさん) said RT @statisticsarai: エクセルのレベル
+
+関数使える←理系院卒凄い！
+マクロ使える←神！
+pythonで操作←なにそれ？
+pandas←パンダ見たいなら動物園行け
+2020-06-02 14:52:34,261 - __main__ - INFO - Shy BOT said RT @Science_me_Up: 💻 Docteur.e en #DataScience ➡️ https://t.co/oJEAkSrny5
+
+#JobmeUp #DataScience #MachineLearning #Python #data #deeplearni…
+2020-06-02 14:52:34,262 - __main__ - INFO - Machine Learning Bot said RT @bukmedianet: Cluster Analysis and Unsupervised Machine Learning in Python | Course #udemycoupon 
+
+-&gt; https://t.co/RThCyKaVfU
+
+#100DaysO…
+2020-06-02 14:52:34,264 - __main__ - INFO - Shy BOT said RT @bukmedianet: Cluster Analysis and Unsupervised Machine Learning in Python | Course #udemycoupon 
+
+-&gt; https://t.co/RThCyKaVfU
+
+#100DaysO…
+2020-06-02 14:52:34,265 - __main__ - INFO - CRA said Linux操作はまぁ最低ラインはいってそう
+Pythonはまぁかろうじて書けるはず
+…C言語…???
+2020-06-02 14:52:34,266 - __main__ - INFO - 干士 said Python一生落ちねえな
+2020-06-02 14:52:34,266 - __main__ - INFO - ラーメン食べたい said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,267 - __main__ - INFO - Rahariku said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:52:34,268 - __main__ - INFO - LinuxBot said RT @data_henrik: Recently, I looked into how to download #Python pandas #data from a #notebook in #IBMWatson Studio. Because it is a hosted…
+2020-06-02 14:52:34,269 - __main__ - INFO - Random Drops said Mount: Bridled Cobalt Python.
+2020-06-02 14:53:34,609 - __main__ - INFO - INFO
+2020-06-02 14:53:34,610 - __main__ - WARNING - WARNING
+2020-06-02 14:53:34,610 - __main__ - ERROR - ERROR
+2020-06-02 14:53:34,610 - __main__ - INFO - Start Authenthication Proces.......
+2020-06-02 14:53:35,538 - __main__ - INFO - Authentication Completed
+2020-06-02 14:53:44,314 - __main__ - INFO - じゃ@情報系 said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,315 - __main__ - INFO - Machine Learning Bot said RT @AMGAS14: Best Python Libraries for Machine Learning and Deep Learning https://t.co/bEpfTOSobr #machinelearning
+2020-06-02 14:53:44,322 - __main__ - INFO - Ezenwa of anambra 👑💭 said @Blaaq_ie Lol hope you tweet like this when there was operation python dance in the south east?
+2020-06-02 14:53:44,327 - __main__ - INFO - もっちー said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,351 - __main__ - INFO - Sean Richards said Hey @AcademicChatter -- programming question!
+
+I've got some FORTRAN95 code which I'm trying to interface with Pyth… https://t.co/uDa8n6fVbA
+2020-06-02 14:53:44,354 - __main__ - INFO - Antonio Antunes said Best Python Libraries for Machine Learning and Deep Learning https://t.co/bEpfTOSobr #machinelearning
+2020-06-02 14:53:44,360 - __main__ - INFO - LinuxBot said RT @YuvalLeshem: Hot High Tech Jobs in Israel available 24/7:
+#software 
+#win 
+#graduate 
+#linux 
+#hardware 
+#architect 
+#qa #fpga 
+#cloud…
+2020-06-02 14:53:44,372 - __main__ - INFO - Yuki✂️🐧@Yuki工房/Yuki-Studio said RT @sera1250: くいしんぼハッカーで学ぶPython構文解析 https://t.co/dsBZ9TOSZt
+2020-06-02 14:53:44,379 - __main__ - INFO - 【Yeah chicken eat】 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,385 - __main__ - INFO - そしゃくさん said RT @python_octopus: テレワークするたこ集20 - ぱいそんのかきなぐり帳 https://t.co/zearyQZaoZ
+2020-06-02 14:53:44,386 - __main__ - INFO - カイザー said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,389 - __main__ - INFO - 林　胤希/Hazuki said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,393 - __main__ - INFO - Harry said RT @schooltds: A Guide to Handling Missing values in Python by Parul Pandey. 
+
+Real world data is messy and often contains a lot of missing…
+2020-06-02 14:53:44,424 - __main__ - INFO - ゆりぺちぺち said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,425 - __main__ - INFO - おとこのこ said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,427 - __main__ - INFO - Harry said RT @gp_pulipaka: Mastering #ComputerVision with #TensorFlow-2.x. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #…
+2020-06-02 14:53:44,430 - __main__ - INFO - Jamil Ouazzani said RT @FuturistGoogle: 😲 Big Bunch of Data Science Books you must read in 2020
+
+#ML #AI #dataScientist
+#MachineLearning #BigData #DataScience…
+2020-06-02 14:53:44,433 - __main__ - INFO - ibultrader said @AkshayPaigankar boss i am not youtube guy or I dont have sense to teach anybody. just for pointer-  Python -  Lear… https://t.co/XXFlipPK7U
+2020-06-02 14:53:44,434 - __main__ - INFO - Harry said RT @Talent_Digger: Top 10 machine learning books to read in 2020 .https://t.co/Mz5dFLm0mn #ML #MachineLearning #python
+2020-06-02 14:53:44,435 - __main__ - INFO - たこぱいそん said テレワークするたこ集20 - ぱいそんのかきなぐり帳 https://t.co/zearyQZaoZ
+2020-06-02 14:53:44,454 - __main__ - INFO - Yuval Leshem |CEO⁝HR Director⁝PMO⁝CO.FOUNDER| said Hot High Tech Jobs in Israel available 24/7:
+#software 
+#win 
+#graduate 
+#linux 
+#hardware 
+#architect 
+#qa #fpga… https://t.co/gUYKjwo5K7
+2020-06-02 14:53:44,456 - __main__ - INFO - Prashant said @bluepassion111 @primal000 @susantananda3 @MyMove @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS… https://t.co/mbEKFbu2ay
+2020-06-02 14:53:44,459 - __main__ - INFO - Lucas Wyrsch said Learn Python coding from engineers, data scientists, and other experts https://t.co/s6bLItXZwg
+2020-06-02 14:53:44,480 - __main__ - INFO - あんどー said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,481 - __main__ - INFO - Ko said @oshiriver2 私もわこすんと一緒にPython勉強するかなぁ(*´-`*)
+2020-06-02 14:53:44,482 - __main__ - INFO - shiv said @saikiran_b @rvelichapat @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs… https://t.co/zkWY5nRq6C
+2020-06-02 14:53:44,483 - __main__ - INFO - Ganesh R said @susantananda3 @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan… https://t.co/l0zFMDXjUn
+2020-06-02 14:53:44,485 - __main__ - INFO - YSB said @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs… https://t.co/cegz35qPOY
+2020-06-02 14:53:44,488 - __main__ - INFO - 北上 たかひろ said RT @Meguru_rinne_vt: ショートショートの第二弾だよ🦊‼️
+
+[ショートショート]天使は目覚めない｜めぐるりんね＠言語魔法Python使いの狐っ娘 @Meguru_rinne_vt #note #vtuber #VTuber好きと繋がりたい  https://…
+2020-06-02 14:53:44,490 - __main__ - INFO - Yuval Leshem |CEO⁝HR Director⁝PMO⁝CO.FOUNDER| said Hot High Tech Jobs in Israel available 24/7:
+#angular
+#react
+#python
+#django
+#ux_ui
+#frontend
+#backend
+#javascript… https://t.co/muJtQT9bWA
+2020-06-02 14:53:44,491 - __main__ - INFO - Jerzy Lipka ✌️ 🇵🇱 🇪🇺 ❤️ said RT @MikiWrobelek_: Równie głupiej i kuriozalnej konferencji w wykonaniu Morawieckiego, Szumowskiego i tego pijaka Kamińskiego dawno nie wid…
+2020-06-02 14:53:44,494 - __main__ - INFO - 無印粗人 said まじでpythonのバージョン管理と仮想環境、全部pipenvで統一してほしい。その方がミスが減るだろ絶対
+2020-06-02 14:53:44,504 - __main__ - INFO - パーセニー said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,507 - __main__ - INFO - Bot Pandoh said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:53:44,510 - __main__ - INFO - 株価予測AI@開発中 said @Takamomo5963 たかさん
+リプライありがとうございます！
+
+開発中のサイトは
+pythonで作ってるんですよー！
+
+いつか、たかさんが
+pythonでウェブサイトを
+作る日を楽しみにしです😉
+2020-06-02 14:53:44,513 - __main__ - INFO - ONK said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,539 - __main__ - INFO - Mritunjay Sharma said What STL is to C++, 
+Python is to Prgramming Languages
+2020-06-02 14:53:44,542 - __main__ - INFO - すぎさん@総合クリエイター said RT @Daisuke_UTMedAI: さっきのGCP使ったディープラーニングのアプリ開発、コード自体はJavaとJavaScriptで書かれてたから、Python以外に上記2つもやった方がいい気がしてきた...😂
+
+#今日の積み上げ  
+#Python  #Java  #J…
+2020-06-02 14:53:44,548 - __main__ - INFO - nlognbot said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:53:44,549 - __main__ - INFO - 那梨 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,550 - __main__ - INFO - かみや said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,552 - __main__ - INFO - FB said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:53:44,553 - __main__ - INFO - CodersNotes said RT @zoe_codes: Following on from my previous tweet, I’m on Day 31 of #100DaysOfCode 
+
+I’m currently working through a beta tutorial &amp; givin…
+2020-06-02 14:53:44,555 - __main__ - INFO - fafa.👩🏻‍💻 said Python for Spreadsheet Users: Use your knowledge of common spreadsheet functions and techniques to explore Python! https://t.co/heKbnQ4S2q
+2020-06-02 14:53:44,563 - __main__ - INFO - André Maia Chagas said RT @ThePSF: The time for silence is long past. The Python Software Foundation stands in solidarity with the Black community.
+#BlackLivesMat…
+2020-06-02 14:53:44,565 - __main__ - INFO - David Cottila said RT @EMBLEBIjobs: Interested to understand &amp; write production level code? We're hiring a #Bioinformatician to help implement metadata standa…
+2020-06-02 14:53:44,567 - __main__ - INFO - … said RT @zarapaoyim: มีโปรแกรมเมอร์อยู่แถวนี้มั้ยคะ อยากขอความช่วยเหลือ คือว่าฝึกเขียน python ใน command prompt แล้วทีนี้บรรทัดมันก็ต่อลงมายาวๆ…
+2020-06-02 14:53:44,568 - __main__ - INFO - わからん@home said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,578 - __main__ - INFO - バニルsp said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,582 - __main__ - INFO - のこりかだいいずなっしんぐ said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,584 - __main__ - INFO - Aaron Cuddeback said RT @EMBLEBIjobs: Interested to understand &amp; write production level code? We're hiring a #Bioinformatician to help implement metadata standa…
+2020-06-02 14:53:44,585 - __main__ - INFO - ろん said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,587 - __main__ - INFO - ゑんどろす(マホイップのすがた) said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,588 - __main__ - INFO - 𓋴𓇋 𓂧𓄿 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,589 - __main__ - INFO - Tahmas said RT @js_tut: You can support me on Patreon @ https://t.co/2L9nGj0JKj and get all my coding books for only $1 – js, css, node, and webgl, and…
+2020-06-02 14:53:44,590 - __main__ - INFO - abhishek bisht said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:53:44,592 - __main__ - INFO - まくご/真紅さえ said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,594 - __main__ - INFO - EMBL-EBI Jobs said Interested to understand &amp; write production level code? We're hiring a #Bioinformatician to help implement metadata… https://t.co/bpDN0lVBi4
+2020-06-02 14:53:44,596 - __main__ - INFO - Andys said @smithy1155 Salama Aleikum Andrew Smith, im just updating now! #raspberrypi #python #iot
+2020-06-02 14:53:44,596 - __main__ - INFO - Aptech Qatar said Python Programming online course! A fresh batch is scheduled to begin from 8 June 2020 at 7pm. Please dial 4467-339… https://t.co/7lmBtuaLZT
+2020-06-02 14:53:44,597 - __main__ - INFO - YouMakeRobots said RT @DYPatilUnivers1: A ” TRYAMBAKAM”  defense drone, Project made by Mr. Shithanshu Mishra
+Hon. Dr. Vijay D. Patil Sir appreciated him. Thi…
+2020-06-02 14:53:44,598 - __main__ - INFO - Aaron Cuddeback said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:53:44,599 - __main__ - INFO - Subrahmanyam Daita said RT @dcivilsoldier: @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs @SmithamolMS…
+2020-06-02 14:53:44,599 - __main__ - INFO - HorizonBurning said @OBerruyer Si je peux me permettre, ce que vous cherchez à faire est beaucoup plus simple, durable, lisible agréabl… https://t.co/NVuH8hQNt7
+2020-06-02 14:53:44,600 - __main__ - INFO - Mr Data Scientist said RT @ThoHeller: 5 Powerful #Python IDEs for Writing #Analytics and #DataScience #Code https://t.co/987vwPmPVF
+2020-06-02 14:53:44,604 - __main__ - INFO - Mr Data Scientist said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:53:44,608 - __main__ - INFO - LeetcodeBot said RT @ncodetechnology: Importance of Python Programming language. https://t.co/Q7bc4J3a98 #pythonprogramming #pythonprogramminglanguage #pyth…
+2020-06-02 14:53:44,610 - __main__ - INFO - Intellectual Piddu (*Abhi* idhar hi) 😷 said @susantananda3 @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan… https://t.co/sMarnjge5Q
+2020-06-02 14:53:44,614 - __main__ - INFO - Arnab said RT @arnabch01: @sminaev2015 @FriseSally @Marinella_Maria @MariangelaSant8 @angelicagallegs @YukariKingdom18 @mhall55nine @eoff_sylvia @Mont…
+2020-06-02 14:53:44,638 - __main__ - INFO - Sadman Ishrak said RT @sadmanishrak: 🐍 Python Apps Might Run On Android &amp; iOS Soon!
+
+#android #iOS #Python #coding #CodeNewbie #100DaysOfCode #programming #Mo…
+2020-06-02 14:53:44,639 - __main__ - INFO - DevelopersDiscussion.com said RT @sadmanishrak: 👨‍💻 Good Coders Borrow, Great Coders Steal! 
+
+#coding #programming #Software #webdevelopment #development #100DaysOfCode…
+2020-06-02 14:53:44,640 - __main__ - INFO - nlognbot said RT @sadmanishrak: 👨‍💻 Good Coders Borrow, Great Coders Steal! 
+
+#coding #programming #Software #webdevelopment #development #100DaysOfCode…
+2020-06-02 14:53:44,641 - __main__ - INFO - menn🚩 said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,642 - __main__ - INFO - Sadman Ishrak said RT @sadmanishrak: 👨‍💻 Good Coders Borrow, Great Coders Steal! 
+
+#coding #programming #Software #webdevelopment #development #100DaysOfCode…
+2020-06-02 14:53:44,643 - __main__ - INFO - SS@データサイエンス勉強中 said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,643 - __main__ - INFO - Python Jobs said Odoo 13: customize company logo size from settings - https://t.co/gObgWEzGQT
+2020-06-02 14:53:44,644 - __main__ - INFO - Andys said The weather at Guardamar del Segura,ES is few clouds, the temperature is 22.19c, the wind speed is 4.0mph, the sun… https://t.co/jfyqej9jqD
+2020-06-02 14:53:44,644 - __main__ - INFO - Web Code Geeks said NumPy Where Tutorial (With Examples) | Web Code Geeks - 2020 https://t.co/8Y0IUQP8hs
+2020-06-02 14:53:44,645 - __main__ - INFO - Форум программистов и сисадминов Киберфорум said Рандомная фунция с возвратом чисел https://t.co/s8ddEGVgKt
+2020-06-02 14:53:44,647 - __main__ - INFO - Gamer Geek said RT @dcivilsoldier: @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs @SmithamolMS…
+2020-06-02 14:53:44,648 - __main__ - INFO - Gamer Geek said RT @Sh4miya: @Jskyyfall I coulda taken my loan and given it to lewis since he carried me through the assignment without even knowing python…
+2020-06-02 14:53:44,649 - __main__ - INFO - Subrahmanyam Daita said @BashistVineet @NalinYadavIFS @SudhaRamenIFS @JamirShaikh_IFS @vikas_yadav_ifs @ParveenKaswan @s_singh_ifs… https://t.co/RHSZXaBLx1
+2020-06-02 14:53:44,650 - __main__ - INFO - ENZ | Miya said @Jskyyfall I coulda taken my loan and given it to lewis since he carried me through the assignment without even knowing python 😭
+2020-06-02 14:53:44,651 - __main__ - INFO - Piotr Warszawski 🇪🇺 said RT @MikiWrobelek_: Równie głupiej i kuriozalnej konferencji w wykonaniu Morawieckiego, Szumowskiego i tego pijaka Kamińskiego dawno nie wid…
+2020-06-02 14:53:44,651 - __main__ - INFO - Артемий Климовских said RT @Skillbox_ru: Обучающий курс «Fullstack-разработчик на Python» от Skillbox — первые 6 месяцев бесплатно. Освойте одну из самых перспекти…
+2020-06-02 14:53:44,652 - __main__ - INFO - OOZEE Technologies said RT @cardaleph1: Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.…
+2020-06-02 14:53:44,653 - __main__ - INFO - Joona Tuunanen said SEO &amp; Python screippauksen perusteet - https://t.co/j62Hg15fnR
+2020-06-02 14:53:44,653 - __main__ - INFO - Treviso said RT @kspub_kodansha: ＼50周年！／抽選で3名に同時プレゼント。応募締切6/9(火) 23:59
+
+テキスト・画像・音声データ分析
+https://t.co/9ZHOSAsDsO
+Pythonで学ぶアルゴリズムとデータ構造
+https://t.co/O36F1…
+2020-06-02 14:53:44,654 - __main__ - INFO - Robert Askam said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:53:44,655 - __main__ - INFO - TAY MOB said RT @CEO_AISOMA: The most used Machine Learning Algorithms
+
+More Slides👉https://t.co/CgwHGU06mX
+
+#MachineLearning #Algorithms #100DaysOfMLCo…
+2020-06-02 14:53:44,655 - __main__ - INFO - T-test said RT @kaede_io: この条件で募集しておいて「きみこのスキルセット(RとPythonの深い知識と統計学)足りてません！」「なんで(書いてないけど)R使えないのに応募したんですか？冷やかしですか？迷惑で社会性がないなぁ」って言われんのまじクソ
+
+死にてえ〜〜〜 https…
+2020-06-02 14:53:44,656 - __main__ - INFO - にしのやッ！🦔 said @spoonaomi お疲れ様です!めちゃ歩いとる!
+2020-06-02 14:53:44,658 - __main__ - INFO - pleiszenburg.de said This is a friendly reminder: I'm organizing an online discussion session for #qgis enhancement proposal 179 (… https://t.co/MWndVM04qV
+2020-06-02 14:53:44,661 - __main__ - INFO - triosia said RT @pwntheweb: Python Flask SSTI Payloads and tricks
+
+* {{url_for.__globals__}}
+* {{request.environ}}
+* {{config}}
+*`{{url_for.__globals__.…
+2020-06-02 14:53:44,663 - __main__ - INFO - Harry said RT @Fisheyebox: Skills require to be #Data #Scientist !
+#knowledge
+#MachineLearning #AI #DataScience #tech #Coding #RStats #fintech #Smartc…
+2020-06-02 14:53:44,666 - __main__ - INFO - JS News said RT @cardaleph1: Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.…
+2020-06-02 14:53:44,669 - __main__ - INFO - The Developer Bot said RT @cardaleph1: Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.…
+2020-06-02 14:53:44,671 - __main__ - INFO - Jason Chen said Magic: ("b" + "a" + +"a" + "a").toLowerCase() ➜ banana !
+正经的说，人家核心还是C++加一点的python，JS一个UI而已。不然我觉得可能真的会掉下来，不开玩笑。。。 https://t.co/yhvHorqbCH
+2020-06-02 14:53:44,673 - __main__ - INFO - Sortweste said RT @gp_pulipaka: Introduction to Vectors and Matrices using #Python for #DataScience.. #BigData #Analytics #AI #MachineLearning #IoT #IIoT…
+2020-06-02 14:53:44,674 - __main__ - INFO - 頑張りをほめるホップくん said お前が好きだぞ！」と思いながらPythonやってる https://t.co/dlPRrVqimb
+
+ちょうど今、Pythonやってる(꒪꒳꒪ )
